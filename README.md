@@ -1,7 +1,7 @@
-#Moto-X Picture and Video Rename
 
-This will rename all of the image and video files from the Moto-X into a more
-readable format.
+# MotoXPictureVideoRenamer
+This will rename all of the image and video files from the Moto-X into a more readable format.
+
 
 ##Starting and Ending Formats.
 
