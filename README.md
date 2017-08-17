@@ -29,4 +29,4 @@ g++ motoxrename.cpp -o motoxrename.exe
 ## Example
 
 `./motoxrename.exe Images`
-Will rename all images in the Images/ directory.
+Will rename all images in the *Images/* directory.
