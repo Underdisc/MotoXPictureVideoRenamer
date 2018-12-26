@@ -75,7 +75,7 @@ int main(int argc, char * argv[])
   }
   else
   {
-    std::cout << "Dir open failed" << std::cout;
+    std::cout << "Dir open failed" << std::endl;
   }
   // extracting data from old names
   std::vector<std::string> new_names;
